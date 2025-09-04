@@ -1,0 +1,24 @@
+{
+  "notifications": [
+    {
+      "hour": 7,
+      "minute": 30,
+      "message": "Selamat pagi ☀️, jangan lupa sarapan!"
+    },
+    {
+      "hour": 12,
+      "minute": 0,
+      "message": "Sudah jam makan siang 🍛, istirahat sebentar yuk!"
+    },
+    {
+      "hour": 17,
+      "minute": 30,
+      "message": "Waktunya olahraga sore 🏃‍♂️"
+    },
+    {
+      "hour": 21,
+      "minute": 0,
+      "message": "Selamat malam 🌙, waktunya istirahat!"
+    }
+  ]
+}
