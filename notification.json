@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "1.0",
-    "description": "Daftar jadwal (jam) dan 10 pesan acak untuk notifikasi harian",
+    "description": "Daily notification schedule and 10 random reminder messages for SensiTools Pro",
     "updated": "2025-09-11"
   },
   "times": [
@@ -17,16 +17,16 @@
     "21:30"
   ],
   "messages": [
-    "Cek update terbaru di Github Pages — ada fitur baru!",
-    "Jangan lewatkan tips performa FFSensi Pro hari ini.",
-    "Sudah lakukan backup? Pastikan data penting aman.",
-    "Ada patch baru. Buka aplikasi untuk melihat changelog.",
-    "Waktunya optimasi! Coba pengaturan sensitivitas baru.",
-    "Info penting: periksa pengaturan izin aplikasi kamu.",
-    "Tip hari ini: matikan background untuk performa lebih baik.",
-    "Promo dan resource baru sudah tersedia — cek sekarang!",
-    "Reminder: update versi agar tetap kompatibel dengan game.",
-    "Sudah lihat fitur eksperimen? Coba dan beri feedback!"
+    "Boost your gameplay! Optimize RAM now with SensiTools Pro.",
+    "Try Pro Sensitivity Control — smoother aim across all playstyles.",
+    "Device slowing down? Free up memory for better performance.",
+    "Enable FPS Monitor to track real-time game stability.",
+    "New tip: adjust Aim FOV for wider and more comfortable targeting.",
+    "Stay focused — enable Disable Notification for distraction-free gaming.",
+    "Check Graphics Quality settings for smoother visuals.",
+    "Network lag? Use Ping Stabilizer for a more stable connection.",
+    "Crosshair overlay is ready — sharpen your aim anytime.",
+    "Don’t forget to apply FPS Mode for maximum 60 FPS experience!"
   ],
   "behavior": {
     "random_message": true,
