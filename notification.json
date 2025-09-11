@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Daftar jadwal (jam) dan 10 pesan acak untuk notifikasi harian",
+    "updated": "2025-09-11"
+  },
+  "times": [
+    "08:00",
+    "09:30",
+    "11:00",
+    "12:00",
+    "14:30",
+    "16:00",
+    "17:30",
+    "18:00",
+    "20:00",
+    "21:30"
+  ],
+  "messages": [
+    "Cek update terbaru di Github Pages — ada fitur baru!",
+    "Jangan lewatkan tips performa FFSensi Pro hari ini.",
+    "Sudah lakukan backup? Pastikan data penting aman.",
+    "Ada patch baru. Buka aplikasi untuk melihat changelog.",
+    "Waktunya optimasi! Coba pengaturan sensitivitas baru.",
+    "Info penting: periksa pengaturan izin aplikasi kamu.",
+    "Tip hari ini: matikan background untuk performa lebih baik.",
+    "Promo dan resource baru sudah tersedia — cek sekarang!",
+    "Reminder: update versi agar tetap kompatibel dengan game.",
+    "Sudah lihat fitur eksperimen? Coba dan beri feedback!"
+  ],
+  "behavior": {
+    "random_message": true,
+    "max_messages_per_day": 3,
+    "rotate_messages": true
+  }
+}
