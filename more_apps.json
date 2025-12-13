@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "title": "FForce Booster",
+  "message": "Popular game booster apps include Game Booster, GLTools, and Cooler Master. While they can enhance performance, results may vary based on the device and game.",
+  "icon": "https://play-lh.googleusercontent.com/QagZRe4A7QlUDy-t0ZYHSiKGEzPD_p01dTlfP6SLT9Ur5PlLF7LUZ6FxB2PL_honbw=w240-h480-rw",
+  "package": "com.cyrust.sigmabooster",
+  "button": "Install"
+}
